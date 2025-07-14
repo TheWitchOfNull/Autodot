@@ -1,0 +1,11 @@
+﻿{
+  "AutodotVersion": "1.0",
+  "RemoteZipUri": "https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_mono_win64.zip",
+  "DeploymentFolder": ".autodot",
+  "BinaryPath": "Godot_v4.4.1-stable_mono_win64/Godot_v4.4.1-stable_mono_win64.exe",
+  "DefaultTask": "open",
+  "ProjectFolder": "./",
+  "Tasks": {
+    "open": "{bp} {patharg} -e"
+  }
+}
